@@ -1,6 +1,5 @@
-Preview ::
-
-https://i.ibb.co.com/1GMBPd2/prp.png
+# Preview ::
+![prp](https://github.com/user-attachments/assets/e76b3da1-6b6f-4ff2-8abb-31856aa8428d)
 
 # ox_inventory
 
